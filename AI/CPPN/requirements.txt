@@ -1,0 +1,9 @@
+numpy==1.20.1
+randimage==1.2
+Flask==1.1.2
+Flask_Cors==3.0.10
+sympy==1.8
+neat==0.4.1
+Pillow==9.2.0
+pygame==2.1.2
+tweepy==4.10.1
